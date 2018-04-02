@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tnty">25sp</dimen>
+    <dimen name="tty">20dp</dimen>
+    <dimen name="oty">110dp</dimen>
+    <dimen name="fty">50dp</dimen>
+    <dimen name="thr">21sp</dimen>
+</resources>

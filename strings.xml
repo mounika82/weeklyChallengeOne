@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeeklyChallengeone</string>
+    <string name="one">Constraint Layout</string>
+    <string name="two">Linear Layout</string>
+    <string name="three">Relative Layout</string>
+    <string name="four">Card View</string>
+    <string name="five">Scroll Views</string>
+    <string name="six">Grid View</string>
+    <string name="cmp">My Weekly Challenge completed!!!</string>
+</resources>
